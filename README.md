@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Read Me
-=======
 # Pagina pessoal de Rodrigo
 
 Fala galera! Sou Rodrigo Maranhao, atualmente trabalho no setor industrial automobilistico e estou em transicao de carreira para a area de ciencia de dados.
@@ -9,4 +6,7 @@ Fala galera! Sou Rodrigo Maranhao, atualmente trabalho no setor industrial autom
 - Gosto de fazer musculacao
 - Sou muito fa de pink floyd
 - AMO pimenta
->>>>>>> 0353b47 (Adicionando o README.md)
+
+# Sobre meu PC
+- Meu PC eh cheio de RGB. hahaha
+
