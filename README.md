@@ -7,5 +7,5 @@ Fala galera! Sou Rodrigo Maranhao, atualmente trabalho no setor industrial autom
 - Sou muito fa de pink floyd
 - AMO pimenta
 - bla bla bla bla teste
-
+- blu blu blu blu teste
 
