@@ -6,7 +6,6 @@ Fala galera! Sou Rodrigo Maranhao, atualmente trabalho no setor industrial autom
 - Gosto de fazer musculacao
 - Sou muito fa de pink floyd
 - AMO pimenta
+- bla bla bla bla teste
 
-# Sobre meu PC
-- Meu PC eh cheio de RGB. hahaha
 
