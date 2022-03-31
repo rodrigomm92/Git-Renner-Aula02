@@ -6,9 +6,12 @@ Fala galera! Sou Rodrigo Maranhao, atualmente trabalho no setor industrial autom
 - Gosto de fazer musculacao
 - Sou muito fa de pink floyd
 - AMO pimenta
-
+- bla bla bla !
 
 # Sobre meu pc
-
 - Meu pc eh legal
+
+# Sobre minha experiencia em programacao
+- comecei a programar em 2012 com a linguagem pascal.
+
 
